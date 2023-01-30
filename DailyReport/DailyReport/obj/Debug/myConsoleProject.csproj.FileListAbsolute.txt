@@ -1,0 +1,6 @@
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/myConsoleProject/myConsoleProject/bin/Debug/myConsoleProject.exe
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/myConsoleProject/myConsoleProject/bin/Debug/myConsoleProject.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/myConsoleProject/myConsoleProject/obj/Debug/myConsoleProject.csproj.AssemblyReference.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/myConsoleProject/myConsoleProject/obj/Debug/myConsoleProject.csproj.CoreCompileInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/myConsoleProject/myConsoleProject/obj/Debug/myConsoleProject.exe
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/myConsoleProject/myConsoleProject/obj/Debug/myConsoleProject.pdb

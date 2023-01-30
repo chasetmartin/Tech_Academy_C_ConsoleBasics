@@ -1,0 +1,6 @@
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/DailyReport/DailyReport/bin/Debug/myConsoleProject.exe
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/DailyReport/DailyReport/bin/Debug/myConsoleProject.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/DailyReport/DailyReport/obj/Debug/DailyReport.csproj.AssemblyReference.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/DailyReport/DailyReport/obj/Debug/DailyReport.csproj.CoreCompileInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/DailyReport/DailyReport/obj/Debug/myConsoleProject.exe
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/DailyReport/DailyReport/obj/Debug/myConsoleProject.pdb
