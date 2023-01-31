@@ -1,0 +1,13 @@
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/bin/Debug/netcoreapp3.1/BooleanLogic.deps.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/bin/Debug/netcoreapp3.1/BooleanLogic.runtimeconfig.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/bin/Debug/netcoreapp3.1/BooleanLogic.runtimeconfig.dev.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/bin/Debug/netcoreapp3.1/BooleanLogic.dll
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/bin/Debug/netcoreapp3.1/BooleanLogic.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.csproj.AssemblyReference.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.AssemblyInfoInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.AssemblyInfo.cs
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.csproj.CoreCompileInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.dll
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BooleanLogic/BooleanLogic/obj/Debug/netcoreapp3.1/BooleanLogic.genruntimeconfig.cache
