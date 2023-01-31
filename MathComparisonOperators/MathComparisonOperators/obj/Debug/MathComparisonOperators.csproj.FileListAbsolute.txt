@@ -1,0 +1,6 @@
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathComparisonOperators/MathComparisonOperators/bin/Debug/MathComparisonOperators.exe
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathComparisonOperators/MathComparisonOperators/bin/Debug/MathComparisonOperators.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathComparisonOperators/MathComparisonOperators/obj/Debug/MathComparisonOperators.csproj.AssemblyReference.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathComparisonOperators/MathComparisonOperators/obj/Debug/MathComparisonOperators.csproj.CoreCompileInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathComparisonOperators/MathComparisonOperators/obj/Debug/MathComparisonOperators.exe
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathComparisonOperators/MathComparisonOperators/obj/Debug/MathComparisonOperators.pdb
