@@ -1,0 +1,13 @@
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/bin/Debug/netcoreapp3.1/MathOperators.deps.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/bin/Debug/netcoreapp3.1/MathOperators.runtimeconfig.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/bin/Debug/netcoreapp3.1/MathOperators.runtimeconfig.dev.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/bin/Debug/netcoreapp3.1/MathOperators.dll
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/bin/Debug/netcoreapp3.1/MathOperators.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/obj/Debug/netcoreapp3.1/MathOperators.csproj.AssemblyReference.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/obj/Debug/netcoreapp3.1/MathOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/obj/Debug/netcoreapp3.1/MathOperators.AssemblyInfoInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/obj/Debug/netcoreapp3.1/MathOperators.AssemblyInfo.cs
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/obj/Debug/netcoreapp3.1/MathOperators.csproj.CoreCompileInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/obj/Debug/netcoreapp3.1/MathOperators.dll
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/obj/Debug/netcoreapp3.1/MathOperators.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/MathOperators/MathOperators/obj/Debug/netcoreapp3.1/MathOperators.genruntimeconfig.cache
