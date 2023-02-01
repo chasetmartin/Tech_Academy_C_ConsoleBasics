@@ -1,0 +1,13 @@
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/bin/Debug/netcoreapp3.1/BranchingEstimator.deps.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/bin/Debug/netcoreapp3.1/BranchingEstimator.runtimeconfig.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/bin/Debug/netcoreapp3.1/BranchingEstimator.runtimeconfig.dev.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/bin/Debug/netcoreapp3.1/BranchingEstimator.dll
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/bin/Debug/netcoreapp3.1/BranchingEstimator.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/obj/Debug/netcoreapp3.1/BranchingEstimator.csproj.AssemblyReference.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/obj/Debug/netcoreapp3.1/BranchingEstimator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/obj/Debug/netcoreapp3.1/BranchingEstimator.AssemblyInfoInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/obj/Debug/netcoreapp3.1/BranchingEstimator.AssemblyInfo.cs
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/obj/Debug/netcoreapp3.1/BranchingEstimator.csproj.CoreCompileInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/obj/Debug/netcoreapp3.1/BranchingEstimator.dll
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/obj/Debug/netcoreapp3.1/BranchingEstimator.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/BranchingEstimator/BranchingEstimator/obj/Debug/netcoreapp3.1/BranchingEstimator.genruntimeconfig.cache

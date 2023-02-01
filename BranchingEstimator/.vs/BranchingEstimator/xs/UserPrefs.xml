@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4694B1EF-B5A6-438A-8EB5-A20DB793C982}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BranchingEstimator/Program.cs">
+    <Files>
+      <File FileName="BranchingEstimator/Program.cs" Line="39" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BranchingEstimator" expanded="True">
+            <Node name="BranchingEstimator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BranchingEstimator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
