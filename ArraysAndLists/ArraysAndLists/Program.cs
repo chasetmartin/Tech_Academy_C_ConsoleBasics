@@ -60,6 +60,7 @@ namespace ArraysAndLists
                 Main();
             }
 
+            Console.Read();
 
         }
     }
