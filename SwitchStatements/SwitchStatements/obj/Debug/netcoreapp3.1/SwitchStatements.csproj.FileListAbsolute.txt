@@ -1,0 +1,13 @@
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.deps.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.runtimeconfig.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.runtimeconfig.dev.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.dll
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/bin/Debug/netcoreapp3.1/SwitchStatements.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.csproj.AssemblyReference.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.AssemblyInfoInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.AssemblyInfo.cs
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.csproj.CoreCompileInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.dll
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/SwitchStatements/SwitchStatements/obj/Debug/netcoreapp3.1/SwitchStatements.genruntimeconfig.cache
