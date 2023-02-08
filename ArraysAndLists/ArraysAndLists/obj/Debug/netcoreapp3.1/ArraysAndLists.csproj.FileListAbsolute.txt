@@ -1,0 +1,13 @@
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/bin/Debug/netcoreapp3.1/ArraysAndLists.deps.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/bin/Debug/netcoreapp3.1/ArraysAndLists.runtimeconfig.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/bin/Debug/netcoreapp3.1/ArraysAndLists.runtimeconfig.dev.json
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/bin/Debug/netcoreapp3.1/ArraysAndLists.dll
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/bin/Debug/netcoreapp3.1/ArraysAndLists.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/obj/Debug/netcoreapp3.1/ArraysAndLists.csproj.AssemblyReference.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/obj/Debug/netcoreapp3.1/ArraysAndLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/obj/Debug/netcoreapp3.1/ArraysAndLists.AssemblyInfoInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/obj/Debug/netcoreapp3.1/ArraysAndLists.AssemblyInfo.cs
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/obj/Debug/netcoreapp3.1/ArraysAndLists.csproj.CoreCompileInputs.cache
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/obj/Debug/netcoreapp3.1/ArraysAndLists.dll
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/obj/Debug/netcoreapp3.1/ArraysAndLists.pdb
+/Users/lemon/Documents/GitHub/Tech_Academy_C_NET/ArraysAndLists/ArraysAndLists/obj/Debug/netcoreapp3.1/ArraysAndLists.genruntimeconfig.cache
